@@ -1,0 +1,9 @@
+environment:
+  name: K8Env
+  identifier: K8Env
+  description: asfd
+  tags: {}
+  type: PreProduction
+  orgIdentifier: default
+  projectIdentifier: <Add project name here>
+  variables: []
