@@ -1,0 +1,13 @@
+connector:
+  name: harness-docker
+  identifier: harnessdocker
+  description: ""
+  orgIdentifier: default
+  projectIdentifier: communityeng
+  type: DockerRegistry
+  spec:
+    dockerRegistryUrl: https://registry.hub.docker.com/v2/
+    providerType: Other
+    auth:
+      type: Anonymous
+    executeOnDelegate: true
