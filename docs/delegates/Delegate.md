@@ -6,10 +6,12 @@ So, now you need to create a delegate to continue. And by create, I mean you nee
 
 / image to be
 
-If you’re a bit earlier on the learning curve - say you know in theory what k8s is but, have never used it before that’s ok. We’ve got your back, and we all started out knowing less than you do now. Follow below, and we’ll walk through all the steps needed to set up a delegate.
+If you’re a bit earlier on the learning curve - say you know in theory what k8s is but, have never used it before that’s ok. We’ve got your back, and we all started out knowing less than you do now. Follow below, and we’ll walk through all the steps needed to set up a delegate.   
 
 
-## Setup your Delegate
+
+## Setup your Delegate 
+***
 
 - Switch over to the **Harness UI** in another window. Navigate to your project and when you see the ‘There are no Delegates in your project’ screen like the screenshot above then:
 
