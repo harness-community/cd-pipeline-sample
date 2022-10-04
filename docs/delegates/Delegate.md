@@ -15,6 +15,8 @@ If you’re a bit earlier on the learning curve - say you know in theory what k8
 
 - Switch over to the **Harness UI** in another window. Navigate to your project and when you see the ‘There are no Delegates in your project’ screen like the screenshot above then:
 
+- Click on `New Delegate`
+
 - Select **Kubernetes**, then click **Continue**.
 
 - Enter “demo” in the Delegate **Name** field.
