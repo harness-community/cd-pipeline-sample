@@ -12,7 +12,7 @@ Here, we will discuss how you can set up a K8's cluster with GCP
 - Name the cluster, select the location(zone).
 - Select the **node configuration** and provision the cluster.
 
-It take a few minutes for the cluster to be ready for use.  
+It takes a few minutes for the cluster to be ready for use.  
 Once you cluster show the Green tick with other config details, it is all set to be used.
 You can connect it from this [GCP console](https://cloud.google.com/binary-authorization/docs/getting-started-console) by selecting your cluster and then click on Connect on the top. It will open a console and you are ready to run Kubernetes commands and play around the cluster.
 
