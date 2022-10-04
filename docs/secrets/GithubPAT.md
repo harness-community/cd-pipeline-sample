@@ -22,7 +22,7 @@ Ok, now if you’re feeling like you’ve got this, feel free to jump over to Ha
 - Create a new **Docker connector** (under PROJECT SETUP select Connectors)   
     - Overview  
 
-        **Name the connector**: Harness-Docker (Example: Harness-Docker)  
+        **Name the connector**: Harness-Docker 
         **Details**  
         **URL**:  https://registry.hub.docker.com/v2/  
         **Provider type**: DockerHub  

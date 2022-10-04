@@ -4,7 +4,7 @@ Make sure you tick all the check boxes before you begin you CD Journey 🚀
 
 - [ ] **Forking the Repository** - Fork this repository on your github: [YAML-Onboarding Repo](https://github.com/Debanitrkl/YAML-Onboarding-Harness)
 
-- [ ] **A Version Control System account**  - In this guide we’re going to use GitHub. Our example app’s source is on GitHub and you’ll need to fork those repos, so make sure you have a GitHub account. Alternatively, if you’re comfortable following your inner-shoulder-angel’s guide to converting GitHub instructions you can use your own VCS. This, however, is an exercise for the reader. 
+- [ ] **A Version Control System account**  - In this guide we’re going to use GitHub. Our example app’s source is on GitHub and you’ll need to fork the repos, so make sure you have a GitHub account. Alternatively, if you’re comfortable following your inner-shoulder-angel’s guide to converting GitHub instructions you can use your own VCS. This, however, is an exercise for the reader. 
 
 - [ ] **A Docker Hub account** - Harness helps you publish container images virtually anywhere. For this guide we’ll use Docker Hub.
 

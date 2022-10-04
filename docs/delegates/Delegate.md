@@ -1,6 +1,6 @@
 # Harness Delegate
 
-Our delegate serves two purposes. First, to provide a secure communication link between **Harness** and your **computer environment**. Additionally, it allows Harness to delegate CI/CD tasks to your compute environment. Yeah, it’s why we named it the **delegate**. #NamingThingsIsHard. 
+Our delegate serves two purposes. First, to provide a secure communication link between **Harness** and your **GKE Cluster**. Additionally, it allows Harness to delegate CI/CD tasks to your compute environment. Yeah, it’s why we named it the **delegate**. #NamingThingsIsHard. 
 
 So, now you need to create a delegate to continue. And by create, I mean you need to install the delegate in your compute environment. If you’re familiar with the abbreviation k8s, then by all means - install the delegate. 
 
