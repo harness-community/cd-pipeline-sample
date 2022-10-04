@@ -1,0 +1,10 @@
+# harness.io/skip-file-for-deploy
+{{- if .Values.env.config}}
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: {{.Values.name}}
+data:
+  keyname: {{.Values.env.config.my_file | b64dec | indent 4}}
+---
+{{- end}}
