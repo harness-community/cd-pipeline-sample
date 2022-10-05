@@ -11,7 +11,8 @@ This sample repository shows how to use the [Harness Continuous Delivery Pipelin
 ```mermaid
 graph LR
 
-PreFlightChecklist --> Cluster --> Delegate --> Secrets --> Connectors
+PreFlightChecklist --> Cluster --> Delegate --> Secrets --> Connectors --> Project --> Pipeline --> Pipeline Execution
+
 ```
 ## Layout
 
