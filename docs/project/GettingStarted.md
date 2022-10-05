@@ -6,6 +6,6 @@
 ```mermaid
 graph LR
 
-Create Project --> Import Pipeline --> Add Manifest --> Add Artifacts --> Add Environment 
+Create Project --> Import Pipeline --> Add Manifest --> Add Artifacts --> Add Environment --> Execute Pipeline
 
 ```
