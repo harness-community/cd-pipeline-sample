@@ -14,6 +14,8 @@ graph LR
 PreFlightChecklist --> Cluster --> Delegate --> Secrets --> Connectors --> Project --> Pipeline --> PipelineExecution
 
 ```
+
+![CD Pipeline](Images/harness-cd-architecture.png)
 ## Layout
 
 | Docs | Description | Link |
