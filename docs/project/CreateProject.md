@@ -18,5 +18,5 @@
 
 
 
-> **Congratulations!** on your new project. Hold up! We have some exciting updates for you. In case you are just getting started with **Harness Platform**, then this update is for you - [Start Deploying in 5 Minutes with a Delegate-first Approac](https://www.harness.io/technical-blog/deploy-in-5-minutes-with-a-delegate-first-approach).   
+> **Congratulations!** on your new project. Hold up! We have some exciting updates for you. In case you are just getting started with **Harness Platform**, then this update is for you - [Start Deploying in 5 Minutes with a Delegate-first Approach](https://www.harness.io/technical-blog/deploy-in-5-minutes-with-a-delegate-first-approach).   
 ~ Captain Canary
