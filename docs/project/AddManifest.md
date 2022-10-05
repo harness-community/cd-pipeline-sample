@@ -1,0 +1,1 @@
+# steps to add manifest
