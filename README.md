@@ -8,13 +8,14 @@ This sample repository shows how to use the [Harness Continuous Delivery Pipelin
 
 ## Getting Started
 
-Use this README to get started with our sample pipeline repository for CD. This guide outlines the basics of getting started with the Harness CD and provides a full YAML to set up your pipeline. This sample doesn’t include configuration options, for in depth steps and configuring the pipeline for other Services but only focuses on Kubernetes.
+Use this README to get started with our sample pipeline repository for CD. This guide outlines the basics of getting started with the Harness CD and provides a full YAML to set up your pipeline. This sample doesn’t include configuration options for in-depth steps and configuring the pipeline for other services, but only focuses on Kubernetes.
 
-Setting up and running the Pipeline will take about 30 minutes and by the end you can run a nginx image on your cluster with Harness!
+
+Setting up and running the pipeline will take about 30 minutes, and by the end, you can run an nginx image on your cluster with Harness!
 
 ## Workflow
 
-The workflow tells the instruction on the steps you should take to get started with the sample pipeline. The steps are as follows:
+The workflow gives instructions on the steps you should take to get started with the sample pipeline. The steps are as follows:
 
 ```mermaid
 graph LR
