@@ -1,6 +1,6 @@
 # Docker Hub
 
-Follow these step to set up a Docker Connector
+Follow these steps to set up a Docker Connector
 
 - Click **New Connector**.
 <img style="display:block;margin:48px auto;padding:1px;border:1px #eee;width:90%;" src='../../Images/new-connector.png' />
