@@ -2,7 +2,7 @@
 
 ![Cover Image CD Pipeline](Images/harness_cover_image.png)
 
-This sample repository shows how to use the [Harness Continuous Delivery Pipeline](https://harness.io/products/continuous-delivery) to deploy a nginx image to Google Kubernetes Engine using YAML based pipeline creation.
+This sample repository shows how to use the [Harness Continuous Delivery Pipeline](https://harness.io/products/continuous-delivery) to deploy an Nginx image to Google Kubernetes Engine using YAML based pipeline creation.
 
 
 
