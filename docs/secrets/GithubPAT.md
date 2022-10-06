@@ -10,9 +10,12 @@ Refer to the **[Add a GitHub Connector documentation](https://ngdocs.harness.io/
 - Click on **Generate new token** (grant ALL permissions)
 - Copy the generated token and save it.
 - Click **New Secret**, then select **Text**. 
+<img style="display:block;margin:48px auto;padding:1px;border:1px #eee;width:50%;" src='../../Images/new-secret.png' />
 - *image to be inserted*
 - Enter “GitHub Personal Access Token” in the **Secret Name** field.
 - Enter your `Personal Access Token` in the **Secret Value** field, then click **Save**.
+
+<img style="display:block;margin:48px auto;padding:1px;border:1px #eee;width:80%;" src='../../Images/github-pat.png' />
 
 Easy peasy lemon squeezy! Right? :lemon: 
 
