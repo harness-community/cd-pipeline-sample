@@ -5,7 +5,7 @@ Now you have the pipeline imported and ready. Let's configure it by adding a man
 ## Follow these steps to add a Manifest
 ***
 
-- Click on the **edit** button on manifest.
+- Click on the **edit** button on the manifest.
 - Now select the **git connector** we had created before in the beginning. Also we can create a new connector on the go as well.
 <img style="display:block;margin:48px auto;padding:1px;border:1px #eee;width:90%;" src='../../Images/manifest-1.png' />
 - Check the Manifest Details : 
