@@ -1,6 +1,6 @@
 # Adding Manifest
 
-Now you have the pipeline imported and ready. Let's configure it by addind a manifest.
+Now you have the pipeline imported and ready. Let's configure it by adding a manifest.
 
 ## Follow these steps to add a Manifest
 ***
