@@ -3,7 +3,6 @@
 After you're done with **Manifest** let's move forward and add an **Artifact**
 
 ## Steps to add an Artifact
-***
 
 
 - Click on `+Add Primary Artifact`
