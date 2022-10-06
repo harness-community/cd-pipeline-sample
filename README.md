@@ -1,10 +1,8 @@
-# Continuous Delivery Pipeline Sample
+# Harness CD Pipeline Sample
 
 ![Cover Image CD Pipeline](Images/harness_cover_image.png)
 
 This sample repository shows how to use the [Harness Continuous Delivery Pipeline](https://harness.io/products/continuous-delivery) to deploy an Nginx image to Google Kubernetes Engine using YAML based pipeline creation.
-
-
 
 ## Getting Started
 
@@ -39,16 +37,20 @@ PreFlightChecklist --> Cluster --> Delegate --> Secrets --> Connectors --> Proje
 
 ![CD Pipeline Architecture](Images/harness-cd-architecture.png)
 
-## Contributors
+## Contributor License Agreement
 
-<a href="https://github.com/harness-community/cd-pipeline-sample/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=harness-community/cd-pipeline-sample" />
-</a>
+In order to clarify the intellectual property license granted with Contributions from any person or entity, Harness Inc. ("Harness") must have a Contributor License Agreement ("CLA") on file that has been read, accepted, and followed by each contributor, indicating an agreement to the CLA terms located [here](https://github.com/harness-community/overview/blob/main/Contributor_License_Agreement.md). This license is for your protection as a Contributor as well as the protection of Harness; it does not change your rights to use your own Contributions for any other purpose.
 
+## Code of Conduct
 
+All users and contributors of the Harness community should adhere to the following [Code of Conduct](https://github.com/harness/community/blob/main/CODE_OF_CONDUCT.md)!
 
+## Communication
+
+Refer [Harness Community Communications Guide](https://github.com/harness-community/overview/blob/main/community_communication_guide.rst) to interact with the wider community users/contributors, join slack workgroups to get help/help other users and create topics in [community.harness.io](https://community.harness.io)
 
 ## License
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+MIT License. 
 
+See [COPYING](LICENSE) for more information.
