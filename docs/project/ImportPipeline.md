@@ -1,6 +1,6 @@
 # Import Pipeline
 
-So, we are done with creating a project. Now lets import a pipeline.
+So, we are done with creating a project. Now, lets import a pipeline.
 
 ## Steps to import a  Pipeline
 ***
