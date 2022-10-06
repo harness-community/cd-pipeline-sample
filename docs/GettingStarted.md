@@ -6,5 +6,5 @@
 ```mermaid
 graph LR
 
-PreFlightChecklist --> Secrets --> Delegates --> Clusters --> Connectors --> Project
+PreFlightChecklist --> Secrets --> Delegates --> Clusters --> Connectors
 ```
