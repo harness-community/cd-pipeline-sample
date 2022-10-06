@@ -9,6 +9,6 @@ So, we are done with creating a project. Now, lets import a pipeline.
 
 <img style="display:block;margin:48px auto;padding:1px;border:1px #eee;width:90%;" src='../../Images/create-pipeline.png' />
 
-- Enter the **name** as “testk8s”, Add the **github connector** “testhelp” which you created on the above step.  
+- Enter the **name** as “testk8s”, and Add the **github connector** “testhelp” you created in the above step.  
 - Under the **repository** section add “YAML-Onboarding-Harness” and select the **git branch** as `main`.  
 - Now select **import**
