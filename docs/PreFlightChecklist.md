@@ -2,7 +2,7 @@
 
 Make sure you tick all the check boxes before you begin you CD Journey 🚀
 
-- [ ] **Forking the Repository** - Fork this repository on your github: [YAML-Onboarding Repo](https://github.com/Debanitrkl/YAML-Onboarding-Harness)
+- [ ] **Forking the Repository** - Fork this repository on your github: [YAML-Onboarding Repo](https://github.com/harness-community/cd-pipeline-sample)
 
 - [ ] **A Version Control System account**  - In this guide we’re going to use GitHub. Our example app’s source is on GitHub and you’ll need to fork the repos, so make sure you have a GitHub account.
 
