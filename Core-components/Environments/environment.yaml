@@ -1,7 +1,7 @@
 environment:
-  name: K8Env
-  identifier: K8Env
-  description: asfd
+  name: kube-infra
+  identifier: kube-infra
+  description: Environment to deploy applications
   tags: {}
   type: PreProduction
   orgIdentifier: default
