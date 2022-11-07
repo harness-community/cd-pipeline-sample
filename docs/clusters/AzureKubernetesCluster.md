@@ -10,11 +10,11 @@ This guide demonstrates how to set up a K8's cluster on MS AZURE.
 
 Step 1: Click on Kubernetes Services under Azure services after signing in.
 
-![Azure Home Page](./Images/AzureHomePage.PNG)
+![Azure Home Page](/cd-pipeline-sample/Images/AzureHomePage.PNG)
 
 Step 2: Click on Create a Kubernetes cluster under create section.
 
-![Azure Cluster Creation](Images/CreateKubernetesClusterAzure.png)
+![Azure Cluster Creation](/cd-pipeline-sample/Images/CreateKubernetesClusterAzure.png)
 
 Step 3:  On the Basics Tab, configure the following options to set up delegate:
 
@@ -47,4 +47,4 @@ Follow the instructions on the right to connect to your cluster.
 
 Now you can setup your delegate using Azure kubernetes cluster.
 
-![image](Images/ClusterConnectAzure.png)
+![image](/cd-pipeline-sample/Images/ClusterConnectAzure.png)
