@@ -14,7 +14,7 @@ Step 1: Click on Kubernetes Services under Azure services after signing in.
 
 Step 2: Click on Create a Kubernetes cluster under create section.
 
-![Azure Cluster Creation](/cd-pipeline-sample/Images/CreateKubernetesClusterAzure.png)
+![Azure Cluster Creation](/Images/CreateKubernetesClusterAzure.png)
 
 Step 3:  On the Basics Tab, configure the following options to set up delegate:
 
@@ -47,4 +47,4 @@ Follow the instructions on the right to connect to your cluster.
 
 Now you can setup your delegate using Azure kubernetes cluster.
 
-![image](/cd-pipeline-sample/Images/ClusterConnectAzure.png)
+![image](/Images/ClusterConnectAzure.png)
