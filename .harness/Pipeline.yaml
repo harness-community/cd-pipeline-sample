@@ -18,32 +18,18 @@ pipeline:
                 variables: []
                 manifests:
                   - manifest:
-                      identifier: manifest
+                      identifier: nginx-app
                       type: K8sManifest
                       spec:
                         store:
                           type: Github
                           spec:
-                            connectorRef: testhelp
+                            connectorRef: testk8git
                             gitFetchType: Branch
                             paths:
-                              - default-k8s-manifests/Manifests/Files/templates
-                            repoName: harness-docs
+                              - content/en/examples/application/nginx-app.yaml
                             branch: main
                         skipResourceVersioning: false
-                  - manifest:
-                      identifier: values
-                      type: Values
-                      spec:
-                        store:
-                          type: Github
-                          spec:
-                            connectorRef: testhelp
-                            gitFetchType: Branch
-                            paths:
-                              - default-k8s-manifests/Manifests/Files/ng_values_dockercfg.yaml
-                            repoName: harness-docs
-                            branch: main
                 artifacts:
                   primary:
                     spec:
@@ -57,7 +43,7 @@ pipeline:
             infrastructureDefinition:
               type: KubernetesDirect
               spec:
-                connectorRef: test
+                connectorRef: qatargetngconnector
                 namespace: default
                 releaseName: release-<+INFRA_KEY>
             allowSimultaneousDeployments: false
