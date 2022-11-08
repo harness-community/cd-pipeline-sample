@@ -4,7 +4,7 @@
 This guide demonstrates how to set up a K8's cluster on MS AZURE.
 ## Setting up a Kubernetes Cluster 
 ***
-### **Steps for Azure Kubernetes cluster** 
+### **Steps for creating Azure Kubernetes Cluster** 
 
 ### Create a Cluster
 
