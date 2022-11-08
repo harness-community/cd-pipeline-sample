@@ -1,11 +1,11 @@
 # Harness Delegate
 
-Our delegate serves two purposes. First, to provide a secure communication link between **Harness** and your **AKS Cluster**. Additionally, it allows Harness to delegate CI/CD tasks to your computer environment. Yeah, that’s why we named it the **delegate**. #NamingThingsIsHard. 
+Our delegate serves two purposes. First, to provide a secure communication link between **Harness** and your **AKS Cluster**. Additionally, it allows Harness to delegate CI/CD tasks to your computer environment. Yeah, that’s why we named it the **delegate**.
 
 ## Setup your Delegate in Azure Kubernetes Cluster
 ***
 
-- Switch over to the **Harness UI** in another window. Navigate to your project under Project setup click on New Delegate
+- Switch over to the **Harness UI** in another window. Navigate to your project under Project setup click on **New Delegate**
 
 - Click on `New Delegate`
 
@@ -18,26 +18,24 @@ Our delegate serves two purposes. First, to provide a secure communication link 
 
 - Select **Small** for the Delegate Size.
 
-- On the right side under Delegate Permissions select
+- On the right side under Delegate Permissions select **Install Delegate with cluster-wide read/write access**.Then click **Continue**.
 
 
 ![Delegate Size](/Images/delegate-size.png)
 
-
-- Install Delegate with **cluster-wide read/write access**. Then click **Continue**.
 
 - Click **Download YAML file**, then click **Continue**.
 
 
 ![Download YAML file](/Images/download-delegate.png)
 
-- Switch Over to Azure Platform under kubernetes services select your resource and click on connect.
+- Switch Over to Azure Platform under **Kubernetes services** select your resource and click on **Connect**.
 
 ![Connect to Azure CLI](/Images/Azureconnect.PNG)
 
-- Click on Open Cloud shell and follow the instructions given to set up your Azure cloud Shell.
+- Click on **Open Cloud shell** and follow the instructions given to set up your Azure cloud Shell.
 
-- After successfull setup of Azure cloud shell click on the **Upload/Download files** option and select Upload.
+- After successfull setup of Azure cloud shell click on the **Upload/Download files** option and select **Upload**.
 
 ![Azure CLI](/Images/AzureCLI.jpg)
 
