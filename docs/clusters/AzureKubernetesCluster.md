@@ -32,8 +32,6 @@ Step 3:  On the Basics Tab, configure the following options to set up delegate:
 
 - Select 99.5% for API server  for lower cost.
 
-
-
 Step 4: Validate your resource by clicking on  **Review + create**  button.
 After successfull validation ,click on **Create** to start building the cluster.
 
