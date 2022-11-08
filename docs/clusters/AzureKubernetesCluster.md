@@ -12,7 +12,7 @@ Step 1: Click on Kubernetes Services under Azure services after signing in.
 
 ![Azure Home Page](/Images/AzureHomePage.PNG)
 
-Step 2: Click on Create a Kubernetes cluster under create section.
+Step 2: Click on Create a Kubernetes cluster under create the section.
 
 ![Azure Cluster Creation](/Images/CreateKubernetesClusterAzure.png)
 
