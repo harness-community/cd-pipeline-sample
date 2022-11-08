@@ -30,7 +30,7 @@ Step 3:  On the Basics Tab, configure the following options to set up delegate:
 
 - Select a Region for the AKS cluster.
 
-- Select 99.5% for API server  for lower cost.
+- Select 99.5% for API server for a lower cost.
 
 Step 4: Validate your resource by clicking on the **Review + create**  button.
 After successful validation, click on **Create** to start building the cluster.
