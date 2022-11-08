@@ -22,7 +22,7 @@ Step 3:  On the Basics Tab, configure the following options to set up delegate:
 
 - Select an Azure Subscription.
 
-- Select or create an Azure Resource group.
+- Select or create an Azure Resource Group.
 
 #### Cluster Details:
 
