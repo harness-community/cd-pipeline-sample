@@ -43,7 +43,7 @@ pipeline:
             infrastructureDefinition:
               type: KubernetesDirect
               spec:
-                connectorRef: qatargetngconnector
+                connectorRef: account.cdplayacc
                 namespace: default
                 releaseName: release-<+INFRA_KEY>
             allowSimultaneousDeployments: false
