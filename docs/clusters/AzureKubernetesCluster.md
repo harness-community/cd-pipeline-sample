@@ -43,6 +43,6 @@ When your cluster is ready click on connect.
 
 Follow the instructions on the right to connect to your cluster.
 
-Now you can setup your delegate using Azure kubernetes cluster.
+Now you can set up your delegate using Azure Kubernetes cluster.
 
 ![image](/Images/ClusterConnectAzure.png)
