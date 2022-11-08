@@ -18,17 +18,16 @@ pipeline:
                 variables: []
                 manifests:
                   - manifest:
-                      identifier: nginx
+                      identifier: ngnix-app.yaml
                       type: K8sManifest
                       spec:
                         store:
-                          type: Github
+                          type: Harness
                           spec:
-                            connectorRef: testk8git
-                            gitFetchType: Branch
-                            paths:
-                              - nginx-app.yaml
-                            branch: main
+                            files:
+                              - /nginx-app.yaml
+                        valuesPaths:
+                          - ""
                         skipResourceVersioning: false
                 artifacts:
                   primary:
