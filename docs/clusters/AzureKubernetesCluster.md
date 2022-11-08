@@ -37,7 +37,7 @@ After successful validation, click on **Create** to start building the cluster.
 
 After a few minutes, your cluster will be deployed.
 
-### Connect  to your your cluster
+### Connect  to your cluster
 
 When your cluster is ready click on connect.
 
