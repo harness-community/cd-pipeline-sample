@@ -18,7 +18,7 @@ pipeline:
                 variables: []
                 manifests:
                   - manifest:
-                      identifier: nginx-app
+                      identifier: nginx
                       type: K8sManifest
                       spec:
                         store:
@@ -27,7 +27,7 @@ pipeline:
                             connectorRef: testk8git
                             gitFetchType: Branch
                             paths:
-                              - content/en/examples/application/nginx-app.yaml
+                              - nginx-app.yaml
                             branch: main
                         skipResourceVersioning: false
                 artifacts:
