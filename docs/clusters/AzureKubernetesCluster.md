@@ -35,7 +35,7 @@ Step 3:  On the Basics Tab, configure the following options to set up delegate:
 Step 4: Validate your resource by clicking on the **Review + create**  button.
 After successful validation, click on **Create** to start building the cluster.
 
-After a few minutes your cluster will be deployed.
+After a few minutes, your cluster will be deployed.
 
 ### Connect  to your your cluster
 
