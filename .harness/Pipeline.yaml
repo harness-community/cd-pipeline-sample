@@ -18,17 +18,6 @@ pipeline:
                 variables: []
                 manifests:
                   - manifest:
-                      identifier: nginx-app
-                      type: K8sManifest
-                      spec:
-                        store:
-                          type: Harness
-                          spec:
-                            files:
-                              - /nginx-app.yaml
-                        valuesPaths: []
-                        skipResourceVersioning: false
-                  - manifest:
                       identifier: nginx
                       type: K8sManifest
                       spec:
