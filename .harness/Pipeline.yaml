@@ -28,6 +28,19 @@ pipeline:
                               - /nginx-app.yaml
                         valuesPaths: []
                         skipResourceVersioning: false
+                  - manifest:
+                      identifier: nginx
+                      type: K8sManifest
+                      spec:
+                        store:
+                          type: Github
+                          spec:
+                            connectorRef: testk8git
+                            gitFetchType: Branch
+                            paths:
+                              - /nginx-app.yaml
+                            branch: main
+                        skipResourceVersioning: false
                 artifacts:
                   primary:
                     spec:
