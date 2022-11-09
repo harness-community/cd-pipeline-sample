@@ -27,7 +27,7 @@ pipeline:
                             connectorRef: testk8git
                             gitFetchType: Branch
                             paths:
-                              - /nginx-app.yaml
+                              - nginx-app.yaml
                             branch: main
                         skipResourceVersioning: false
                 artifacts:
@@ -43,7 +43,7 @@ pipeline:
             infrastructureDefinition:
               type: KubernetesDirect
               spec:
-                connectorRef: account.cdplayacc
+                connectorRef: account.plgplayacc
                 namespace: default
                 releaseName: release-<+INFRA_KEY>
             allowSimultaneousDeployments: false
