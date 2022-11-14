@@ -27,7 +27,7 @@ PreFlightChecklist --> Cluster --> Delegate --> Secrets --> Connectors --> Proje
 | Docs | Description | Link |
 | --- | --- | --- |
 | PreFlight Checklist | A checklist for all the pre-requisites | [Click Here](docs/PreFlightChecklist.md) |
-| Cluster | Steps to set up GKE | [Click Here](docs/clusters) 
+| Cluster | Steps to set up GKE and AKS| [Click Here](docs/clusters) 
 | Delegate | Steps to set up the Harness Delegate  | [Click Here](docs/delegates) |
 | Secrets | Learn about Secrets and steps to set them up | [Click Here](docs/secrets) |
 | Connectors | Steps the to set up Docker and GitHub Connectors  | [Click Here](docs/connectors) |
