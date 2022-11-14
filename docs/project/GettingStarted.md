@@ -8,3 +8,4 @@ graph LR
 
 CreateProject --> ImportPipeline --> AddManifest --> AddArtifacts --> AddEnvironment --> ExecutePipeline
 ```
+Let's start by [creating a project](docs/project/CreateProject.md)

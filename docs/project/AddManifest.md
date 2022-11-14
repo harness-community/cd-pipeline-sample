@@ -23,3 +23,5 @@ Now you have the pipeline imported and ready. Let's configure it by adding a man
 	- **Branch** : main, 
 	- **File Path** : default-k8s-manifests/Manifests/Files/ng_values_dockercfg.yaml
 - Click **Submit**
+
+Let's [add the artifacts](docs/project/AddArtifacts.md) now

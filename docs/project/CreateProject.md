@@ -24,3 +24,5 @@
 
 > **Congratulations!** on your new project. Hold up! We have some exciting updates for you. In case you are just getting started with **Harness Platform**, then this update is for you - [Start Deploying in 5 Minutes with a Delegate-first Approach](https://www.harness.io/technical-blog/deploy-in-5-minutes-with-a-delegate-first-approach).   
 ~ Captain Canary
+
+Now let's move on to the next step of [importing a pipeline](docs/project/ImportPipeline.md)
