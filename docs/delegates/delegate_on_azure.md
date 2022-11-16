@@ -36,8 +36,17 @@ Harness delegate serves two purposes. First, to provide a secure communication l
 ![Azure CLI](/Images/AzureCLI.jpg)
 
 - Upload the Yaml file which you have downloaded from the harness platform.
+ 
+- Either way instead of downloading and submitting the Harness Delegate file you can create a file in Azure terminal itself
 
-- After Successful uploading of the file
+```bash
+code harness-delegate.yml
+```
+- It will open Visual Studio Code editor in the cloud shell named harness-delegate.
+
+- Copy the harness-delegate yml code provided in harness platform paste it in the editor and then save it file would be created.
+
+- After Successful uploading/creating the file
 Run the following command to apply the Harness Delegate to your Kubernetes Cluster
 
 ```bash
