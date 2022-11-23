@@ -12,3 +12,5 @@ So, we are done with creating a project. Now, lets import a pipeline.
 - Enter the **name** as “testk8s”, and Add the **github connector** “testhelp” you created in the above step.  
 - Under the **repository** section add “YAML-Onboarding-Harness” and select the **git branch** as `main`.  
 - Now select **import**
+
+Now it's time to [add the manifests](docs/project/AddManifest.md)

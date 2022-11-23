@@ -16,3 +16,5 @@ After you're done with **Manifest** let's move forward and add an **Artifact**
 - Select the above created **docker connector**.
 
 - Enter the **artifact details** “`library/nginx`“ and click **submit**.
+
+Let's [add the new environment](docs/project/AddEnvironment.md)
