@@ -1,0 +1,33 @@
+pipeline:
+  name: Build cd-pipeline-sample
+  identifier: Build_harness_community_cd_pipeline_sample_1748965236083
+  projectIdentifier: devsecops763c5
+  orgIdentifier: WorkshopOrg
+  stages:
+    - stage:
+        name: Build
+        identifier: Build
+        type: CI
+        spec:
+          cloneCodebase: true
+          execution:
+            steps:
+              - step:
+                  type: Run
+                  name: Echo Welcome Message
+                  identifier: Echo_Welcome_Message
+                  spec:
+                    shell: Sh
+                    command: echo "Welcome to Harness CI"
+          platform:
+            os: Linux
+            arch: Amd64
+          runtime:
+            type: Cloud
+            spec: {}
+  properties:
+    ci:
+      codebase:
+        connectorRef: org.workshopgithub
+        repoName: harness-community/cd-pipeline-sample
+        build: <+input>
