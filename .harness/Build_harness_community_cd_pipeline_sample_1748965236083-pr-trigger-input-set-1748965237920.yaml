@@ -1,0 +1,14 @@
+inputSet:
+  name: Build_harness_community_cd_pipeline_sample_1748965236083-pr-trigger-input-set
+  identifier: Build_harness_community_cd_pipeline_sample_1748965236083prtriggerinputset
+  orgIdentifier: WorkshopOrg
+  projectIdentifier: devsecops763c5
+  pipeline:
+    identifier: Build_harness_community_cd_pipeline_sample_1748965236083
+    properties:
+      ci:
+        codebase:
+          build:
+            type: PR
+            spec:
+              number: <+trigger.prNumber>
